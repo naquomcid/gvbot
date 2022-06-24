@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "OTg5NjI0MDQwNjE4NTk4NDcx.G08NUy.wQ9rco2B_lzQnv_07M49B1Gw2_QmmsoUpstR0w",
+    "SERVER_URL": "g51.hebergtonserv.fr:30137",
+    "SERVER_LOGO": "https://cdn.discordapp.com/avatars/398440911677292555/c6e0274834bdc7a8c1def1b74d2c97af.png?size=256",
+    "SERVER_NAME": "GoodVibes | RP",
+    "PREFIX": "gv/",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"963958006209454101",
+        "HELP":"989651246266863646",
+        "PLAYERLIST":"989651246266863646"
+    }
+    
+}
